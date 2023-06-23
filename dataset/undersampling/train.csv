@@ -1,0 +1,187 @@
+id,left_id,left_nama,left_alamat,right_id,right_nama,right_alamat,jaccard,label
+296,630,joglo,genteng butulan 4 rt rw genteng genteng,1991,uena tenan catering,demak 22 bubutan gundih rt rw 006 008 gundih bubutan 60173,0.083333333,0
+80,946,nita cake cookies,lakarsantri iiia 5 lakarsantri lakarsantri 60211,3226,nita cake cookies,lakarsantri 3 a 5 lakarsantri lakarsantri 60211,0.75,1
+238,704,pt wonglokat international,kalianyar 17h kapasari genteng 60273,2085,pusat jajanan rakyat murah,pppx 263 embong kaliasin genteng city 60271,0.045454545,0
+289,894,mom ima,bubutan rt rw alun alun contong bubutan,2075,teh cap poci pusat grosir surabaya,pusat grosir lantai 4 foodcourt dupak raya gundih bubutan 60172,0.035714286,0
+120,1351,solaria grand city surabaya,grand city mall kusuma bangsa ketabang genteng 60272,3175,solaria,grand city mall kusuma bangsa ketabang genteng 60272,0.625,1
+202,749,kremuzz,mojoklanggru lor 56 c mojo gubeng,2287,libreria eatery,ngagel jaya 89 pucang sewu gubeng 60283,0.041666667,0
+101,1392,mixue ice cream tea klampis,klampis jaya 25c klampis ngasem sukolilo 60116,3314,mixue klampis,klampis jaya 25c klampis ngasem sukolilo 60116,0.7,1
+93,1407,mixue ice cream tea margorejo,margorejo indah 8 jemur wonosari wonocolo 60238,3298,mixue margorejo,margorejo indah 8 jemur wonosari wonocolo 60238,0.7,1
+63,291,carpentier kitchen,untung suropati 83 dr soetomo tegalsari,1634,carpentier kitchen,untung suropati 83 tegalsari 60264,0.785714286,1
+268,1415,mixue ice cream tea kapasan,kapasan 210b sidodadi simokerto 60141,3328,mixue merr,dr ir h soekarno 416 a kedung baruk rungkut 60298,0.083333333,0
+239,260,burger up,dharmahusada indah timur rr 22 mulyorejo 60115,2932,es teller 77,galaxy mall dharma husada 35 37 mulyorejo mulyorejo 60115,0.076923077,0
+258,195,bebek goreng dan ayam kampung 55 surabaya,bendul merisi besar timur 1 a bendul merisi wonocolo 60239,2777,warung bu subur,kapas gading madya 1 23 gading tambaksari 60134,0.035714286,0
+240,1371,roti o kazacity surabaya,kaza city kapas krampung tambakrejo simokerto 60133,1491,kuliner surabaya depot pojok pucang,pucangan gang 8 10 pucang gubeng 60283,0.0625,0
+51,1416,mixue ice cream tea wiyung,raya wiyung babatan wiyung 60227,3285,mixue ice cream tea wiyung,mmqj qvq raya wiyung babatan wiyung 60227,0.833333333,1
+34,99,the dapoer 31,perumahan griya amerta j 20 medokan ayu rungkut 60295,3267,the dapoer 31,perumahan griya amerta j 20 medokan ayu rungkut city 60295,0.95,1
+184,289,cap giling,pakis sidokumpul gang 3 11 pakis sawahan 60256,1996,prima green food bakery,medokan asri ma 3 b 11 medokan ayu medokan ayu rungkut 60295,0.071428571,0
+122,434,elmara,gayungan 1b 7 gayungan gayungan 60235,3245,elmara catering ibu lusi,gayungan 1b 7 gayungan gayungan 60235,0.625,1
+235,1083,sambal bu rini,apartemen sukolilo dian regency unit 1230 rt 009 rw 002 keputih sukolilo 60111,2562,warung nasi,pp4m h3h kutai rw 06 darmo wonokromo 60241,0.026315789,0
+285,681,yoichi topgo knuts kuta boga,kalikepiting 111 kav 16 tambakrejo simokerto,1688,mafia tahu surabaya,dukuh kupang bar 16 15 dukuh kupang dukuhpakis 60225,0.041666667,0
+292,176,mbok tini,bua setro 1 25 rt rw bulak bulak,3113,a w,tunjungan plaza 1 jenderal basuki rachmat 8 12 kedungdoro tegalsari 60261,0.029411765,0
+69,767,kuweh surabaya,menur 38 60286,3231,kuweh surabaya,raya menur 38 airlangga gubeng 60286,0.75,1
+27,1394,mixue ice cream tea dharmahusada,dharmahusada 121 c mojo gubeng 60285,3312,mixue ice cream tea dharmahusada,dharmahusada 121 c mojo gubeng 60285,1.0,1
+90,147,asmara spikoe,kalilom lor timur 1b 5 60129,3213,asmara spikoe,kalilom lor timur gg ib 5 tanah kali kedinding kenjeran 60129,0.708333333,1
+308,1062,risolive,rungkut harapan j 45 60293,2634,warung sae,gg besar sel 45 bendul merisi wonocolo 60238,0.041666667,0
+14,1248,kopi kenangan ciputra world surabaya,ciputra world lg mayjen sungkono 89 gn sari dukuhpakis 60224,3069,kopi kenangan ciputra world surabaya,ciputra world lg mayjen sungkono 89 gn sari dukuhpakis 60224,1.0,1
+261,348,dapur fafa,jojoran baru 3 dalam 34 rt rw mojo gubeng,1927,faria catering,koblen tengah 20 a rw 05 bubutan bubutan 60174,0.03125,0
+273,116,al aqoh snacks and drinks,gunungsari 58 rt 04 rw 07 sawunggaling wonokromo 60242,2899,depot murah meriah,jagir wonokromo 122 jagir wonokromo 60244,0.041666667,0
+265,705,ziyana walidah,teknik kantin pusat kmpus its keputih sukolilo,2030,chubby pusat grosir surabaya,pusat grosir dupak 4 gundih bubutan 60127,0.038461538,0
+242,1374,gokana ramen teppan delta plaza,plaza pemuda 33 37 embong kaliasin genteng 60271,1487,marugame udon tunjungan plaza,tunjungan plaza 3 basuki rahmat 8 12 kedungdoro tegalsari 60261,0.091911765,0
+189,420,dede satoe,tenggilis timur 6 dd1 tenggilis mejoyo tenggilis mejoyo 60292,1533,mie ayam bu tinuk,kencanasari timur 15 gn sari wonokromo 60224,0.041666667,0
+50,1018,pizza haq,kendangsari b 10 kendangsari tenggilis mejoyo,3117,pizza haq,kendangsari ykp b 10 kendangsari tenggilis mejoyo 60292,0.857142857,1
+305,364,dapur nala,pakis gunung gang 1 40 pakis sawahan,2031,coffee toffee taman apsari,taman apsari st 1 embong kaliasin genteng city 60271,0.035714286,0
+216,1383,mixue ice cream tea karimun jawa,karimun jawa 5b gubeng gubeng 60281,1976,katering dapur brilliant,simo gn bar tol 2a 152 simomulyo sukomanunggal 60281,0.038461538,0
+255,228,bolugiyo,tengger kandangan timur 1 a 20 rt 005 rw 003 kandangan benowo 60198,3316,mixue ice cream tea semolowaru,nginden semolo 20 nginden jangkungan sukolilo 60118,0.029411765,0
+269,1067,roso omahan,genteng sidomukti 68 rt rw genteng genteng,2817,wisata kuliner embong blimbing surabaya,embong blimbing embong kaliasin genteng 60262,0.055555556,0
+165,309,cireng planet,gubeng jaya sr 12 rt rw gubeng gubeng,1736,idaman chinese and indonesian restaurant,manyar kertoarjo 5 65 rt 007 rw 11 mojo gubeng 60285,0.107142857,0
+209,764,kuelin,kapasari 1 18 g kapasari genteng,2842,puri iwake,plaza pemuda 33 37 embong kaliasin genteng 60271,0.041666667,0
+211,358,dapur mak razka,putat jaya c barat 4 buntu 6b putat jaya sawahan 60255,2720,warung cak tu in,putat gede bar 2 putat gede sukomanunggal 60226,0.035714286,0
+112,1349,solaria plaza surabaya,plaza solaria delta pemuda embong kaliasin genteng 60271,2904,solaria,plaza solaria delta pemuda embong kaliasin genteng 60271,0.666666667,1
+174,1271,cheftrusted,raya kedung asem 9 b 6 kedungbaruk rungkut 60298,2337,the oak tree surabaya,raya darmo permai 1 75 pradahkalikendal dukuhpakis 60226,0.03125,0
+24,1367,richeese factory manyar,manyar kertoarjo 59 mojo gubeng 60285,2992,richeese factory manyar,manyar kertoarjo 59 mojo gubeng 60285,1.0,1
+65,1374,gokana ramen teppan delta plaza,plaza pemuda 33 37 embong kaliasin genteng 60271,2926,gokana ramen teppan plaza surabaya,plaza pemuda 33 37 embong kaliasin genteng city 60271,0.777777778,1
+52,1252,starbucks coffee gubeng,raya gubeng 33 rt 002 rw 06 gubeng gubeng 60281,2983,starbucks gubeng,raya gubeng 33 rt 002 rw 06 gubeng gubeng 60281,0.833333333,1
+191,227,bolubulo,wisma permai 1 25 mulyorejo mulyorejo,2823,soto ayam cak to undaan,undaan wetan ngemplak 1 36 ketabang genteng 60272,0.041666667,0
+137,789,lidya s cake,kertajaya 222 kertajaya gubeng,3198,lidyaâ s cake spesialis chiffon,kertajaya 222 kertajaya gubeng 60282,0.541666667,1
+256,1180,spaghetti aura,taman mulyosari utara 7 rt rw kalisari mulyorejo,2613,warung namera,010 sidoluhur 4 e rw 02 krembangan sel krembangan 60175,0.03125,0
+270,183,azzalya food,kedung tarukan baru 40 a rt rw mojo gubeng,2135,dejavu,ngagel jaya selatan st 33 pucang sewu gubeng city 60283,0.027777778,0
+111,425,d toekoe,semampir selatan 1 b 19 a medokan semampir sukolilo 60119,3221,d toekoe,semampir sel ib 19a medokan semampir sukolilo 60119,0.666666667,1
+149,435,elmara,gayungan ib 7 gayungan gayungan 60235,3245,elmara catering ibu lusi,gayungan 1b 7 gayungan gayungan 60235,0.425,1
+85,187,bang zoel,sarpawisesa 44 ujung semampir,3209,bang zoel kedai,sarpawisesa 44 ujung semampir 60155,0.733333333,1
+103,1261,outlet maxx coffee siloam surabaya,lobby rs siloam raya gubeng 70 gubeng gubeng 60281,2174,maxx coffee,lobby rs siloam raya gubeng 70 gubeng gubeng 60281,0.7,1
+234,712,agen kelapa muda pak ipin,gebang lor 49 sukolilo gebang putih sukolilo,3314,mixue klampis,klampis jaya 25c klampis ngasem sukolilo 60116,0.05,0
+233,670,kencana,kalibokor kencana 2 31b pucang sewu gubeng 60283,3232,box kopi,ngagel jaya utara 20 pucang sewu gubeng 60283,0.166666667,0
+7,1386,mixue ice cream tea karang menjangan,karang menjangan 117c mojo gubeng 60286,3320,mixue ice cream tea karang menjangan,karang menjangan 117c mojo gubeng 60286,1.0,1
+102,1395,mixue ice cream tea ambengan,ambengan 22 ketabang genteng 60272,3310,mixue ambengan,ambengan 22 ketabang genteng 60272,0.7,1
+220,359,dapur makda,pucangan 7 21 kertajaya gubeng,1715,sushi jin,manyar kertoarjo 98 manyar sabrangan gubeng 60116,0.05,0
+79,1423,mixue ice cream tea gayungsari 1215,gayungsari bar 10 41 gayungan gayungan 60235,3279,mixue gayungsari 1215,gayungsari bar 10 41 gayungan gayungan 60235,0.75,1
+141,1364,wingstop surabaya town square,town square hayam wuruk 6 sawunggaling wonokromo 60242,2916,wing stop,town square hayam wuruk 6 sawunggaling wonokromo 60242,0.5,1
+217,1327,mubarok kayu mas,kutisari selatan 2 91 nan,3093,burger king pakuwon mall,pakuwon mall ground floor mayjend jonosewojo 2 babatan wiyung 60123,0.035714286,0
+226,1125,serba serbi gedhang k5,siwalankerto selatan rusunawa lt 01 03 rt rw siwalankerto wonocolo,2268,wk cafe pujasera,kalibokor selatan 164 166 baratajaya gubeng 60284,0.033333333,0
+153,726,azahra kuliner,semolowaru elok r 11 semolowaru sukolilo,3233,pecel pincuk azahra kuliner,semolowaru 55 semolowaru sukolilo 60119,0.392857143,1
+253,287,cap bali putra bali,nambangan 32 tanah kali kedinding kenjeran 60129,2046,sambang cafe eatery,ketabang kali 53 ketabang genteng 60272,0.045454545,0
+96,1417,mixue ice cream tea kalijudan,kalijudan 42 rw 02 kalijudan mulyorejo 60114,3284,mixue kalijudan,kalijudan 42 rw 02 kalijudan mulyorejo 60114,0.7,1
+32,1362,cfc grand city mall surabaya,grand city ketabang genteng 60272,2890,cfc grand city mall surabaya,grand city ketabang genteng 60272,1.0,1
+133,1195,stmj herbal pak tedjo,yos sudarso 9 a samping klinik pusura embong kaliasin genteng,3254,stmj herbal pak tejo,yos sudarso 9 embong kaliasin genteng 60271,0.572727273,1
+70,1366,richeese factory ahmad yani,ahmad yani 288 dukuh menanggal gayungan 60234,2986,richeese factory,ahmad yani 288 dukuh menanggal gayungan 60234,0.75,1
+282,186,bandeng juwana,ngagel jaya utara 103 1 baratajaya gubeng 60284,2943,rotiboy,dupak 1 gundih bubutan 60174,0.041666667,0
+275,1381,mixue ice cream tea plaza surabaya,lt 4 plaza pemuda embong kaliasin genteng 60271,1646,peco peco sushi loop graha famili,plaza graha famili plaza graha famili loop mayjend jonosewojo pradahkalikendal dukuhpakis 60227,0.03125,0
+182,279,sambel maknyos,simopomahan 1 40 rt rw simomulyo baru sukomanunggal,1820,katerinda catering service,raya kendangsari 1 kendangsari tenggilis mejoyo 60292,0.038461538,0
+127,378,catering aqiqah mandiri,masjid al akbar utara 3 pagesangan jambangan 60233,3248,aqiqah surabaya aqiqoh mandiri,masjid al akbar utara 3 pagesangan jambangan 60232,0.588888889,1
+15,1347,bakmi gm galaxy mall 3,galaxy mall 3 dr ir h soekarno 3 mulyorejo mulyorejo 60115,3178,bakmi gm galaxy mall 3,galaxy mall 3 dr ir h soekarno 3 mulyorejo mulyorejo 60115,1.0,1
+232,735,bu mudji,kalikepiting pompa 18 b rt rw pacarkembang tambaksari,1474,tempat makan setro tengah no 45,setro tengah 45 gading tambaksari 60134,0.038461538,0
+54,1354,pizza hut delta plaza,plaza pemuda 33 37 embong kaliasin genteng 60271,1434,pizza hut restoran delta plaza surabaya,plaza pemuda 33 37 embong kaliasin genteng 60271,0.833333333,1
+12,1249,kopi kenangan royal plaza surabaya,royal plaza lg ahmad yani 16 18 wonokromo wonokromo 60231,3074,kopi kenangan royal plaza surabaya,royal plaza lg ahmad yani 16 18 wonokromo wonokromo 60231,1.0,1
+307,515,daun so,kalimas baru 1 35 a rt 06 rw 1 perak utara pabean cantian,2376,warung pecel dan rawon mbak sun,kali sumo bratang gede kalisumo 65 a ngagelrejo wonokromo 60245,0.023809524,0
+44,1359,burger king basuki rahmat surabaya,pert darmo park 1 bl 4 b 3 60256 embong kaliasin genteng 60271,3096,burger king basuki rahmat,pert darmo park 1 bl 4 b 3 60256 embong kaliasin genteng 60271,0.9,1
+62,161,aykitchen,wonorejo selatan 4 122 wonorejo rungkut,3210,aykitchen,wonorejo sel 4 122 wonorejo rungkut 60296,0.785714286,1
+16,1398,mixue ice cream tea sukolilo,semampir utara 62 rt 001 rw 01 medokan semampir sukolilo 60119,3307,mixue ice cream tea sukolilo,semampir utara 62 rt 001 rw 01 medokan semampir sukolilo 60119,1.0,1
+178,292,cemara kitchen,manukan lor 1 c 2 rt rw manukan kulon tandes,2541,warung barokah,dapuan baru 2 krembangan utara pabean cantikan 60163,0.03125,0
+105,633,js pizza,genteng sidomulyo 11 rt 3 rw 6 genteng genteng,3199,js pizza,genteng sidomulyo 11 genteng genteng 60275,0.6875,1
+33,1421,mixue ice cream tea pakuwon mall,pakuwon trade centre lantai 1 fc 032a mayjend jonosewojo babatan wiyung 60216,3277,mixue ice cream tea pakuwon mall,pakuwon trade centre lantai 1 fc 032a mayjend jonosewojo babatan wiyung 60227 60216,0.961538462,1
+246,867,frishhealthy,margorejo tangsi 4 29 margorejo wonocolo,2766,warung merah,siwalankerto timur 1 52 siwalankerto wonocolo 60236,0.05,0
+304,910,kayla drinkco,genteng candirejo 21 genteng genteng,1783,catering seduluran,bumi mandiri tower 2 panglima sudirman 66 68 embong kaliasin genteng 60271,0.035714286,0
+114,1246,chatime ciputra world,pasar wonokitri lantai lg 45 ciputra world mayjen sungkono gn sari dukuhpakis 60224,3018,chatime,pasar wonokitri lantai lg 45 ciputra world mayjen sungkono gn sari dukuhpakis 60224,0.666666667,1
+231,46,pohong keju ndeso,sidosermo puskesmas 45 sidosermo wonocolo 60239,3123,pizza hut delivery phd indonesia,siwalankerto 249 siwalankerto wonocolo 60236,0.0625,0
+290,1369,roti o dtc surabaya,darmo trade center jagir wonokromo jagir wonokromo 60244,2854,kuliner,sebtra pkl taman bungkul darmo wonokromo 60241,0.090909091,0
+286,625,jerindo,manyar kertoarjo 5 18 20 mojo gubeng 60285,2327,coffee tgc,plaza graha famili loop bukit darmo boulevard 20 pradahkalikendal dukuhpakis 60216,0.027777778,0
+48,1345,ayam nelongso siwalankerto,siwalankerto 88 siwalankerto wonocolo 60234,3187,ayam goreng nelongso siwalankerto,siwalankerto 88 siwalankerto wonocolo 60234,0.875,1
+150,383,taste and taste catering,pakis argosari f 24 60224,3247,taste taste,pakis argosari 24 dukuh pakis dukuhpakis city 60224,0.416666667,1
+219,271,otak otak bandeng soerabaja,kapas baru 3 77 rt 015 rw 007 kapas madya baru tambaksari,3308,mixue ice cream tea tambaksari,pacar keling 7 pacar keling tambaksari 60131,0.035714286,0
+204,1280,tradisi ndeso,petemon 1 8 rt rw petemon sawahan,2672,warung nasi jagung mbok ana,kupang gn tim 1 39a rt 006 rw 06 putat jaya sawahan 60255,0.133333333,0
+291,1060,rien kitchen,bandarejo gg 2 07 rt rw sememi benowo,2430,warung bu siswo,pucang jajar tengah 65 rt 003 rw 01 kertajaya gubeng 60282,0.058823529,0
+263,772,la spezia,gading pantai 5 19 dukuh sutorejo mulyorejo 60113,1668,mamasak surabaya,dukuh kupang xxv 50a dukuh kupang dukuhpakis 60225,0.038461538,0
+164,614,qinaa snack,jogoloyo 8 18 c rt rw gunung sari dukuh pakis,1440,fish co tunjungan plaza,tunjungan plaza 5 lantai 5 5 basuki rahmat 8 12 kedungdoro tegalsari 60261,0.025,0
+156,542,hamis kitchen,taman menanggal indah 17 dukuh menanggal gayungan 60231,2193,titik kumpul surabaya warkop and cafe,dukuh kupang utara 1 1 putat jaya sawahan 60225,0.035714286,0
+183,717,alif,donokerto 8 43 kapasan simokerto,2744,warteg bu erni,arief rahman hakim 8 a keputih sukolilo 60111,0.041666667,0
+25,1387,mixue ice cream tea ngagel,ngagel jaya 57 pucang sewu gubeng 60283,3319,mixue ice cream tea ngagel,ngagel jaya 57 pucang sewu gubeng 60283,1.0,1
+144,1186,spika spiku dan jl cookies,kapasan 151 kapasan simokerto 60141,3251,spika butter spiku,kapasan simokerto city 60141,0.466666667,1
+84,1013,pempek ny kamto,royal plaza ahmad yani 16 18 wonokromo 60231,3249,pempek ny kamto royal plaza,royal plaza ahmad yani 16 18 wonokromo city 60231,0.744444444,1
+131,1352,yoshinoya lenmarc mall surabaya,lenmarc mall gf mayjend jonosewojo 9 pradahkalikendal dukuhpakis 60226,1657,yoshinoya,lenmarc mall gf mayjend jonosewojo 9 pradahkalikendal dukuhpakis city 60226,0.575,1
+146,773,ladang lima,rungkut industri 3 30 a kutisari tenggilis mejoyo 60291,3230,pt ladang sehat indonesia,rungkut industri 3 30a kutisari tenggilis mejoyo 60291,0.45,1
+157,702,sedaap,gedung ekonomi embong malang 61 65 kedungdoro tegalsari 60261,1846,catering mulia,kp malang 41 wonorejo tegalsari 60263,0.076923077,0
+244,533,grande food indonesia,demak jaya 2 70 rt rw tembok dukuh bubutan,2983,starbucks gubeng,raya gubeng 33 rt 002 rw 06 gubeng gubeng 60281,0.066666667,0
+172,1399,mixue ice cream tea bratang,bratang gede 138 ngagelrejo wonokromo 60245,3224,ngastina,bawean 20 ngagel wonokromo 60246,0.05,0
+5,1383,mixue ice cream tea karimun jawa,karimun jawa 5b gubeng gubeng 60281,3323,mixue ice cream tea karimun jawa,karimun jawa 5b gubeng gubeng 60281,1.0,1
+293,38,morela,kenikir 17 ketabang genteng,3254,stmj herbal pak tejo,yos sudarso 9 embong kaliasin genteng 60271,0.05,0
+77,1297,urban wagyu,opak 50 darmo wonokromo 60241,3261,urban wagyu steakhouse opak,opak 50 darmo wonokromo 60241,0.75,1
+179,1180,spaghetti aura,taman mulyosari utara 7 rt rw kalisari mulyorejo,3035,kopi kenangan spbu kenpark kenjeran,pqxr 9hmdukuh sutorejokec mulyorejo city 60134,0.038461538,0
+301,655,kauman jaya,tenggilis kauman gg buntu 10 tenggilis mejoyo tenggilis mejoyo 60255,2408,warung barokah jaya madura,banyu urip 44 kupang krajan sawahan 60254,0.1,0
+280,1103,mugi berkah,gubeng kertajaya 9 d 54 rt rw airlangga gubeng,1839,mawar catering dekorasi,kapas madhya indah 9 gading tambaksari 60134,0.035714286,0
+250,170,bakeon,graha family 1 37 60226,3276,mixue bg junction,lantai ug upper ground c oc1 oc2 bubutan 1 7 bubutan bubutan 60174,0.033333333,0
+125,190,barokah puding suroboyoo,pondok maritim indah blk am 04 rt rw balas klumprik wiyung,3208,barokah puding suroboyoo,kr klumprik slt 8 4 balas klumprik wiyung 60222,0.59375,1
+249,71,dimsum mbledos,kalijudan mulia 25 rt 005 rw 006 kalijudan mulyorejo 60114,1623,spesial belut surabaya,banyu urip 139 rt 002 rw 09 kupang krajan sawahan 60253,0.055555556,0
+4,1187,spikoe resep kuno,rungkut madya 41 rungkut kidul rungkut 60293,3252,spikoe resep kuno,rungkut madya 41 rungkut kidul rungkut 60293,1.0,1
+21,398,bandeng juwana,ngagel jaya utara 103 1 baratajaya gubeng 60284,3222,bandeng juwana,ngagel jaya utara 103 1 baratajaya gubeng 60284,1.0,1
+170,522,griya calya,lidah kulon gang 2 8 rt 06 rw 01 lidah kulon lakarsantri,2905,a w plaza surabaya,plaza lantai 2 pemuda 33 37 embong kaliasin genteng 60271,0.026315789,0
+257,1052,rengganis ayu,siwalankerto utara 1 3b siwalankerto wonocolo,2888,kartika pujasera perak,jakarta 30 a perak utara pabean cantikan 60165,0.041666667,0
+78,1372,wendy s grand city,grand city mall walikota mustajab ketabang genteng 60272,2931,wendy s,grand city mall walikota mustajab ketabang genteng 60272,0.75,1
+241,1145,rengganis,ngagel dadi 2 5a ngagel rejo wonokromo,2448,warung akor 72 giras,tegalsari wonorejo 2 72 wonorejo pusat 60263,0.045454545,0
+129,229,bon bon,penjaringansari ps 1 a 22 penjaringansari rungkut 60297,3207,bon bon,penjaringan asri 14 10 penjaringan sari rungkut 60297,0.583333333,1
+19,1403,mixue ice cream tea raya dukuh kupang,raya dukuh kupang 47a putat jaya sawahan 60225,3302,mixue ice cream tea raya dukuh kupang,raya dukuh kupang 47a putat jaya sawahan 60225,1.0,1
+169,9,bilgharo kitchen salad,gembili 2 23 jagir wonokromo,2269,okui kopi 3 0,bawean 37 rt 2 rw 04 ngagel wonokromo 60246,0.083333333,0
+190,667,kelapa hijau,kedung baruk graha santoso aa2 9 wonorejo rungkut,1662,united steaks,plaza graha family mayjend jonosewojo pradahkalikendal dukuhpakis city 60216,0.03125,0
+230,597,oma n dok,candi lontar lor 44 s 47 lontar sambikerep,1612,hongdae korean food restaurant surabaya barat,ruko taman internasional citraland a20 sambikerep city 60217,0.035714286,0
+151,724,aw juice,sutorejo 120 dukuh sutorejo mulyorejo dukuh sutorejo mulyorejo,3234,aw juice sosis bakar sosis goreng,raya sutorejo 122 dukuh sutorejo mulyorejo 60119,0.414285714,1
+203,422,firstgradego firstgradego manna spyfee qassih,nambangan 09 tanah kali kedinding kenjeran 60129,1923,catering ibu,rungkut harapan blk c 36 kali rungkut rungkut 60293,0.038461538,0
+298,628,jny catering,wonosari wetan baru rt rw wonokusumo semampir,1797,ecoh catering,panjang jiwo tenggilis mejoyo panjang jiwo tenggilis mejoyo 60299,0.166666667,0
+187,1371,roti o kazacity surabaya,kaza city kapas krampung tambakrejo simokerto 60133,2348,jaen sajan surabaya,pucang rinenggo 8 kertajaya gubeng 60282,0.083333333,0
+30,1355,a w plaza surabaya,plaza lantai 2 pemuda 33 37 embong kaliasin genteng 60271,2905,a w plaza surabaya,plaza lantai 2 pemuda 33 37 embong kaliasin genteng 60271,1.0,1
+210,935,nena cake,pakis gunung 1c 5a pakis sawahan 60256,2076,kopi ongop,pprg fm2 arjuno sawahan sawahan 60251,0.05,0
+74,1381,mixue ice cream tea plaza surabaya,lt 4 plaza pemuda embong kaliasin genteng 60271,3325,mixue plaza surabaya,lt 4 plaza pemuda embong kaliasin genteng 60271,0.75,1
+159,199,bandeng presto bu tri,petemon 3 110 b rt rw petemon sawahan,3309,mixue ice cream tea sukomanunggal,sukomanunggal b 254 tanjungsari sukomanunggal 60187,0.045454545,0
+35,732,box kopi,ngagel jaya utara 20 pucang sewu gubeng,3232,box kopi,ngagel jaya utara 20 pucang sewu gubeng 60283,0.9375,1
+118,66,ayam bakar pak d,kebonsari 25 kebonsari jambangan 60232,3270,ayam bakar pak d jambangan,raya kebonsari 25f kebonsari jambangan 60232,0.65,1
+31,1264,teman ngupi store,jemur wonosari gg modin 10d jemur wonosari wonocolo 60237,3258,teman ngupi store,gg modin 10d jemur wonosari wonocolo 60237,1.0,1
+181,1125,serba serbi gedhang k5,siwalankerto selatan rusunawa lt 01 03 rt rw siwalankerto wonocolo,1728,wardhani resto,raya jemur sari 144 jemur wonosari wonocolo kendangsari tenggilis mejoyo 60237,0.027777778,0
+277,283,zaqira food,randu bara 2 4 rt 005 rw 012 rt rw sidotopo wetan kenjeran,2991,richeese factory,tunjungan plaza lt ug basuki rahmat 2 kedungdoro tegalsari 60261,0.025,0
+64,1363,cfc pasar atom,mall ps atum bunguran 45 bongkaran pabean cantikan 60161,3085,cfc atom,mall ps atum bunguran 45 bongkaran pabean cantikan city 60161,0.783333333,1
+264,556,ichirank,rungkut asri barat 13 24 rungkut kidul rungkut 60293,2970,starbucks merr,superindo merr dr ir h soekarno kedung baruk rungkut city 60298,0.029411765,0
+1,186,bandeng juwana,ngagel jaya utara 103 1 baratajaya gubeng 60284,3222,bandeng juwana,ngagel jaya utara 103 1 baratajaya gubeng 60284,1.0,1
+303,536,gula gula,hamzah fansyuri 45 rt rw darmo wonokromo,3290,mixue kranggan,kranggan 27 rt 006 rw 09 sawahan sawahan 60251,0.076923077,0
+148,71,dimsum mbledos,kalijudan mulia 25 rt 005 rw 006 kalijudan mulyorejo 60114,3269,dimsum mbledos merr,dr ir h soekarno 53 kalijudan mulyorejo 60114,0.44047619,1
+309,716,alghani syirup ghiuh,ploso 4 23b ploso tambaksari,2756,warung berkah,jolotundo 19 pacar keling tambaksari 60131,0.055555556,0
+23,1341,ayam nelongso dharmawangsa,dharmawangsa 94 airlangga gubeng 60286,3194,ayam nelongso dharmawangsa,dharmawangsa 94 airlangga gubeng 60286,1.0,1
+279,999,mamamia,kalimas baru 2 gg lebar 18 perak utara pabean cantian,2498,depot sari,karet 112 bongkaran pabean cantikan 60161,0.033333333,0
+278,354,dapur kesuma,wisma medokan utara 1 b5 medokan ayu rungkut,2429,warung makan,gundih 5 1 gundih bubutan 60172,0.045454545,0
+57,148,astin brownies cookies,ngaglik baru 3 23 kapasari genteng,3212,dapur astin brownies cookies,ngaglik baru 3 23 kapasari genteng 60273,0.803571429,1
+56,325,aisya catering wedding,kebonsari 3 28 kebonsari jambangan 60233,1856,aisya catering wedding,dan kebonsari 3 28 raya kebonsari 18 kebonsari jambangan 60233,0.8125,1
+188,1247,chatime darmo surabaya,darmo 99 darmo wonokromo nbsp darmo wonokromo 60241,2217,verte cafã,jambi 47 darmo wonokromo 60241,0.214285714,0
+302,922,koffiku,greenwood perumahan citraland e 9 6 rt 001 rw 007 made sambikerep 60219,1454,steak hut,manyar kertoarjo 80 rt 003 rw 06 manyar sabrangan mulyorejo 60116,0.047619048,0
+266,334,dapoer mumtaz,petukangan rt rw ampel semampir,1520,nasi ayam geprek penyetan panggangan sambal cumi,dapuan baru 4 44 rt 005 rw 05 krembangan utara pabean cantikan 60163,0.0625,0
+82,629,joana cookie,darmo indah selatan 8 ff 26 rt 004 rw 005 karangpoh tandes 60186,3200,joana cookie,darmo indah selatan 8 ff karangpoh tandes 60188,0.75,1
+71,1388,mixue ice cream tea ptc surabaya,puncak indah raya lontar 2 babatan wiyung 60216,3318,mixue ptc surabaya,puncak indah raya lontar 2 babatan wiyung 60216,0.75,1
+49,1348,bakmi gm graha family,mayjen yono suwoyo babatan wiyung 60227,3177,bakmi gm graha family,pm3g wgf mayjen yono suwoyo babatan wiyung 60227,0.875,1
+200,676,vanila katering,simorejo sari b 7 27a simomulyo baru sukomanunggal 60181,2769,warung bu kris,ruko pengampon square semut baru 1 bongkaran pabean cantikan 60161,0.027777778,0
+173,1126,seta budi bakery,keputih tegal 1 35 rt rw keputih sukolilo,2533,warung makan bu mahmuda,layar 04 rt 005 rw 03 krembangan utara pabean cantikan 60163,0.0625,0
+215,1030,minuman tradisional bu kenti,dharmawangsa 4 28 rt rw airlangga gubeng,1750,hanamasa,gubeng pojok 31 rt 010 rw 07 ketabang genteng 60272,0.107142857,0
+75,1251,starbucks coffee jemursari surabaya,jemursari tim 2 jemur wonosari wonocolo 60237,2972,starbucks jemursari,jemursari tim 2 jemur wonosari wonocolo 60237,0.75,1
+53,937,ngastina,bawean 20 ngagel wonokromo 60275,3224,ngastina,bawean 20 ngagel wonokromo 60246,0.833333333,1
+152,409,djoeragan,bukit palma rg 2 6 sememi benowo 60197,3246,djoeragan express,palma grandia sememi benowo 60198,0.4,1
+126,316,cookies box,h r muhammad 73b 60226,3223,cookies box,mayjen hr muhammad 73b putat gede sukomanunggal 60189,0.590909091,1
+29,1389,mixue ice cream tea royal plaza,ahmad yani 16 18 wonokromo wonokromo 60243,3317,mixue ice cream tea royal plaza,ahmad yani 16 18 wonokromo wonokromo 60243,1.0,1
+260,1011,mbok tini,bua setro 1 25 rt rw bulak bulak,1695,jirou family resto,raya darmo permai 1 2a pradahkalikendal dukuhpakis 60226,0.035714286,0
+212,978,onde onde molen surabaya,bratang gede 79 ngagel rejo wonokromo,1577,dak nalgae surabaya,simpang darmo permai selatan 21 pradahkalikendal dukuhpakis 60226,0.1,0
+221,432,elang samudra,kedung mangu selatan 2 14 sidotopo wetan kenjeran,2237,xatu_cafe,bendul merisi selatan 11 49 bendul merisi wonocolo 60239,0.035714286,0
+276,1023,pohong keju mas pangestu,kapas madya barat 7 4 rt rw kapasmadya baru tambaksari,2717,warung prasmanan tulungagug,dukuh kupang barat 1 140 142 dukuh pakis dukuhpakis 60225,0.027777778,0
+288,1075,sae lesmana,tambak wedi lebar j 5 tambak wedi kenjeran,2942,roti o,jqgw 389 raya ir h juanda segoro tambak betro sedati kabupaten sidoarjo 61253,0.027777778,0
+26,1402,mixue ice cream tea ngagel rejo,ngagel rejo kidul 43 ngagelrejo wonokromo 60245,3303,mixue ice cream tea ngagel rejo,ngagel rejo kidul 43 ngagelrejo wonokromo 60245,1.0,1
+222,891,jasmine,petemon 3 109 petemon sawahan,1975,rice box ibu endang,taman darmo permai utara 3 5 tanjungsari sukomanunggal 60187,0.041666667,0
+116,1344,ayam nelongso wiyung,raya wiyung ruko babatan pratama a2 babatan wiyung 60227,3186,nelongso fried chicken wiyung branch,raya wiyung ruko babatan pratama a2 babatan wiyung 60227,0.666666667,1
+86,1342,ayam nelongso mulyosari,raya mulyosari kalisari mulyorejo 60113,3191,ayam goreng nelongso mulyosari,pqmw 5h7 raya mulyosari kalisari mulyorejo 60113,0.732142857,1
+227,661,kedai fadilah,tambak deres 1 21 kenjeran bulak,2766,warung merah,siwalankerto timur 1 52 siwalankerto wonocolo 60236,0.045454545,0
+248,336,dapoer shasha,cumpat kulon baru 1 43 kedung cowek bulak,1748,warung makan bu sima,gubeng jaya 2 ka 1 gubeng gubeng 60281,0.038461538,0
+197,753,dapoer reytara,asemrowo 4 40 a rt rw asem rowo asem rowo,1665,d jang gem korean restaurant,mayjen sungkono 208 a putat gede sukomanunggal 60189,0.033333333,0
+119,1350,solaria royal plaza surabaya,royal plaza solaria ahmad yani ketintang gayungan 60231,2868,solaria,royal plaza solaria ahmad yani ketintang gayungan 60231,0.625,1
+47,1368,richeese factory rungkut,rungkut madya 61 rungkut kidul rungkut 60293,2987,richeese factory rungkut madya,rungkut madya 61 rungkut kidul rungkut 60293,0.875,1
+87,1419,mixue ice cream tea citraland bukit palma,ruko palma galeria ra2 11 sememi benowo 60198,3273,mixue citraland bukit palma,ruko palma galeria ra2 11 sememi benowo city 60198,0.73015873,1
+243,1335,zahrah,jambangan 5 12 rt rw jambangan jambangan,2143,cafe dw,kenjeran 300 rt 000 rw 00 gading tambaksari 60134,0.083333333,0
+46,1346,bakmi gm tunjungan plaza 6,tunjungan plaza 6 lt 5 kedungdoro tegalsari 60261,3179,bakmi gm tunjungan plaza,tunjungan plaza 6 lt 5 kedungdoro tegalsari 60261,0.9,1
+225,305,cilla katering,kedung tarukan baru 1 15 mojo gubeng,1807,alif nikmat catering service,ngagel madya 8 6 baratajaya gubeng 60284,0.038461538,0
+108,318,cookies kingdom,raya wiguna tengah 40,3205,cookies kingdom,ry wiguna tengah 40 gn anyar tambak gn anyar 60294,0.666666667,1
+271,1122,semu,taman puspa raya b 5 10 citraland sambikerep sambikerep 60217,2208,thirty3brew jemursari,raya jemursari 167 kendangsari tenggilis mejoyo 60239,0.033333333,0
+259,537,gunung kelud,gayungsari barat 3 61 rt 005 rw 003 gayungan gayungan 60234,2074,kolonial kopi,penataran 5a rt 005 rw 11 pacar keling tambaksari 60131,0.088235294,0
+175,529,jajanan crispy bu mah,babatan langgar 35 a blk rt rw dukuh sutorejo mulyorejo,2016,warung pojok barokah bu sulami,gang tambak dukuh 3 2 kapasari pusat 60273,0.091911765,0
+83,1401,mixue ice cream tea manyar kertoarjo,manyar kertoarjo 5 57 mojo gubeng 60285,3304,mixue manyar kertoarjo,manyar kertoarjo 5 57 mojo gubeng 60285,0.75,1
+272,211,berlian bakery,kendangsari 1 28 kendangsari tenggilis mejoyo,3159,yoshinoya,galaxy mall 1 dr ir h soekarno 37 mulyorejo city 60115,0.033333333,0
